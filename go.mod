@@ -1,4 +1,4 @@
-module github.com/ccin2p3/go-freeipa
+module github.com/firewall-falcons/go-freeipa
 
 go 1.19
 
@@ -18,4 +18,4 @@ require (
 	golang.org/x/net v0.7.0 // indirect
 )
 
-replace github.com/ccin2p3/go-freeipa => github.com/mathiasmagnusson/go-freeipa v1.2.1
+replace github.com/ccin2p3/go-freeipa => github.com/firewall-falcons/go-freeipa v1.2.2
