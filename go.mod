@@ -17,3 +17,5 @@ require (
 	golang.org/x/crypto v0.6.0 // indirect
 	golang.org/x/net v0.7.0 // indirect
 )
+
+replace github.com/ccin2p3/go-freeipa => github.com/mathiasmagnusson/go-freeipa v1.2.1
